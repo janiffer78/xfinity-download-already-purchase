@@ -3,7 +3,7 @@ How to Download Xfinity Already Purchases Easily? 🎬📲
 
 Have you ever bought a movie or show through Xfinity but couldn't figure out how to access it later? Don't worry — you're not alone. Many users struggle with figuring out how to **download Xfinity already purchases** to their devices for offline viewing or easy access. 😓
 
-.. image:: start.png
+.. image:: download-now.gif
    :alt: My Project Logo
    :width: 400px
    :align: center
